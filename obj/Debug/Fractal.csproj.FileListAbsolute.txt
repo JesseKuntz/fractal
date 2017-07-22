@@ -1,0 +1,13 @@
+S:\CS212Projects\Fractal\Fractal\Fractal\bin\Debug\Fractal.exe.config
+S:\CS212Projects\Fractal\Fractal\Fractal\bin\Debug\Fractal.exe
+S:\CS212Projects\Fractal\Fractal\Fractal\bin\Debug\Fractal.pdb
+S:\CS212Projects\Fractal\Fractal\Fractal\obj\Debug\Fractal.csprojResolveAssemblyReference.cache
+S:\CS212Projects\Fractal\Fractal\Fractal\obj\Debug\MainWindow.baml
+S:\CS212Projects\Fractal\Fractal\Fractal\obj\Debug\MainWindow.g.cs
+S:\CS212Projects\Fractal\Fractal\Fractal\obj\Debug\App.g.cs
+S:\CS212Projects\Fractal\Fractal\Fractal\obj\Debug\Fractal_MarkupCompile.cache
+S:\CS212Projects\Fractal\Fractal\Fractal\obj\Debug\Fractal.g.resources
+S:\CS212Projects\Fractal\Fractal\Fractal\obj\Debug\Fractal.Properties.Resources.resources
+S:\CS212Projects\Fractal\Fractal\Fractal\obj\Debug\Fractal.csproj.GenerateResource.Cache
+S:\CS212Projects\Fractal\Fractal\Fractal\obj\Debug\Fractal.exe
+S:\CS212Projects\Fractal\Fractal\Fractal\obj\Debug\Fractal.pdb
